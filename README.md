@@ -4,7 +4,7 @@
 
 - 📈  I've previously worked in digital marketing for french startups,
 
-- 🖥  Passionate about technology & innovation I've decided to learn web development in 2020. 
+- 🖥  Passionate about technology & innovation I've decided to learn web development in 2020, 
 
 - 📕  I'm an insatiable learner, continuously trying to improve myself, 
 
