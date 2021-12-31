@@ -6,7 +6,7 @@
 
 - 🖥  Passionate about technology & innovation I've decided to learn web development in 2020, 
 
-- 📕  I'm an insatiable learner, continuously trying to improve myself, 
+- ⚡️ I'm an insatiable learner, continuously experimenting to improve myself, 
 
 - 🌈  My pronouns: They / She.
 
