@@ -43,6 +43,7 @@
 
 ## Github Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edch-lo)](https://github.com/edch-lo/github-readme-stats)
 [![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=edch-lo&theme=radical)](https://github.com/edch-lo/github-readme-stats)
 
 <br>
