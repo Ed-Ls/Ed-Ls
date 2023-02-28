@@ -1,8 +1,8 @@
 # Hi I'm Eden 👋 🌈
 
-- 🔥  I'm a french Fullstack Javascript Developer,
+- 🔥  I'm a Javascript Developer, Frontend oriented (React / React Native),
 
-- 📈  I've previously worked in digital marketing for french startups,
+- 📈  I've huge interest for product issues & have a user first approach,
 
 - 🖥  Passionate about technology & innovation I've decided to learn web development in 2020, 
 
@@ -25,6 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 
