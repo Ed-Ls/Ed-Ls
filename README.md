@@ -2,13 +2,12 @@
 
 - 🔥  I'm a Javascript Developer, Frontend oriented (React / React Native),
 
-- 📈  I've huge interest for product issues & have a user first approach,
+- 📈  I've huge interest for product issues & have a user-first approach,
 
 - 🖥  Passionate about technology & innovation I've decided to learn web development in 2020, 
 
 - ⚡️ I'm an insatiable learner, continuously experimenting to improve myself, 
 
-- 🌈  My pronouns: They / She.
 
 <br>
 
