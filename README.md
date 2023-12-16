@@ -44,7 +44,7 @@
 
 ## Github Stats
 
-[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=edch-lo&theme=radical)](https://github.com/edch-lo/github-readme-stats)
+[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-ls&theme=radical)](https://github.com/ed-ls/github-readme-stats)
 
 <br>
 
