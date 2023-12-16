@@ -1,6 +1,6 @@
 # Hi I'm Eden 👋 🌈
 
-- 🔥  I'm a Fulstack Developer, Frontend oriented (React / Typescript), also using .Net or Node.js for the backend,
+- 🔥  I'm a Fullstack Developer, Frontend oriented (React / Typescript), also using .Net or Node.js for the backend,
 
 - 📈  I've huge interest for product issues & have a user-first approach,
 
