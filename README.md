@@ -42,10 +42,4 @@
 
 <br>
 
-## Github Stats
-
-[![Eden's GitHub stats](https://github-readme-stats.vercel.app/api?username=ed-ls&theme=radical)](https://github.com/ed-ls/github-readme-stats)
-
-<br>
-
 > *“This is the real secret of life -- to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.”* - **Alan Watts**
